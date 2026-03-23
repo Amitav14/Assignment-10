@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "poster": "inception"
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Sci-Fi",
+    "poster": "interstellar"
+  },
+  {
+    "title": null,
+    "year": 1999,
+    "genre": "Action",
+    "poster": "matrix"
+  },
+  {
+    "title": "The Matrix",
+    "year": "nineteen-ninety-nine",
+    "genre": "Action",
+    "poster": "matrix"
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "poster": "avatar"
+  },
+  {
+    "title": "Titanic",
+    "year": -1997,
+    "genre": "Romance",
+    "poster": "titanic"
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": "Action",
+    "poster": null
+  },
+  {
+  },
+  {
+    "title": "The Dark Knight"
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972.5,
+    "genre": "Crime",
+    "poster": "godfather"
+  }
+]
